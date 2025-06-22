@@ -1,0 +1,18 @@
+{
+  "alice": {
+    "salt": "bb1d1dad-4262-415d-b681-7f119e28bc4c",
+    "hash": "87dd3d7b04dc8c392041e1e07b46c49dc3fb9dddc486cd04bcdd281cfdf015e5"
+  },
+  "bob": {
+    "salt": "28b5c38b-b9ae-4cc7-b4ea-1af221612955",
+    "hash": "51e926960a51fef9eca1562e06e0d11ba420f477a9bd52a27c909939d4e65b6b"
+  },
+  "admin": {
+    "salt": "54dce24d-4cd9-4dad-874f-95af86abae13",
+    "hash": "18d9c54d4839b3311b1749f11c3b44c8b5c38ee8188ef3c7c50f285e6257735c"
+  },
+  "test": {
+    "salt": "4361616a-da33-4568-8fc4-eaeaaa7f7097",
+    "hash": "a94bd580c24c1c116fb2f8e8cf67e216e97078360556255cc7ae09a2ea47dc2d"
+  }
+}

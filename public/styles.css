@@ -1,0 +1,44 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #007bff;
+  color: white;
+  min-height: 100vh;
+  margin: 0;
+}
+
+.light-mode {
+  background-color: #007bff;
+  color: white;
+}
+
+.dark-mode {
+  background-color: #121212;
+  color: #ddd;
+}
+
+.container {
+  background-color: white;
+  color: black;
+  border-radius: 15px;
+  margin: 30px auto;
+  padding: 20px;
+}
+
+.dark-mode .container {
+  background-color: #222;
+  color: #ddd;
+}
+
+.list-group-item {
+  cursor: pointer;
+}
+
+.list-group-item-success {
+  background-color: #d4edda !important;
+  color: #155724 !important;
+}
+
+.list-group-item-danger {
+  background-color: #f8d7da !important;
+  color: #721c24 !important;
+}
